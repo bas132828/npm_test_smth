@@ -1,7 +1,7 @@
 {
   "name": "pluralization",
   "version": "1.0.1",
-  "description": " Склоняет существительные в трех вариантах в зависимости от числа и возвращает нужную строку. Пример: (1) секунду. (2 || .5) секунды. (5)секунд.arrayOfWords - порядок важен(как в примере) ['секунду', 'секунды', 'секунд'],",
+  "description": " Russian language pluralization. ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
